@@ -34,14 +34,14 @@ columns=['car_name', 'brand', 'model', 'vehicle_age', 'km_driven', 'seller_type'
        'fuel_type', 'transmission_type', 'mileage', 'engine', 'max_power',
        'seats', 'selling_price']
 
-API_KEY = 'HCBRVB54E2TFDNVO'
+API_KEY = 'IKEFCBZIZHFQM6E5'
 ENDPOINT_SCHEMA_URL  = 'https://psrc-epkz2.ap-southeast-2.aws.confluent.cloud'
-API_SECRET_KEY = 'oCEA0rTyVDrw4eMDq6BXNx1AbdHt+4AtCu/Pz2DbUaO10R1mrofmRsnJdfG7qVdd'
-BOOTSTRAP_SERVER = 'pkc-l7pr2.ap-south-1.aws.confluent.cloud:9092'
+API_SECRET_KEY = '6ZSfMkNBqkE//Yx5QPY4Gdo8V1OkK3YZGg+/YP+QsG+oa/y60CoYWRKccD2wvTyy'
+BOOTSTRAP_SERVER = 'pkc-xrnwx.asia-south2.gcp.confluent.cloud:9092'
 SECURITY_PROTOCOL = 'SASL_SSL'
 SSL_MACHENISM = 'PLAIN'
-SCHEMA_REGISTRY_API_KEY = 'JU22OSOMINSRFVTT'
-SCHEMA_REGISTRY_API_SECRET = 'D0456tLryJO8tbukigXFJJA2r9Xrd6Trvch85cYWMsmkAIOfemGxWa69X5FJCshJ'
+SCHEMA_REGISTRY_API_KEY = 'BL6G65NKYW4WN6KU'
+SCHEMA_REGISTRY_API_SECRET = 'kjIsIlja+oc8ZfYiXwdc33n0eq8OZ4/hH9tm55Ze/Jxa+Ureh0pfEym5KP112nly'
 
 
 def sasl_conf():
